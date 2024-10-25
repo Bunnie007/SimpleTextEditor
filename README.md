@@ -1,0 +1,1 @@
+A basic text editor application built for editing, saving, and managing text files. This project provides a straightforward interface for creating and editing plain text, with essential features like saving and clearing text.
